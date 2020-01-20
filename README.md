@@ -20,6 +20,6 @@ Scrapy in PyCharm
   This final step will be amended throughout project as you are selecting new items from HTML page of website 
   
 Jan 19
-Began writing consolidated spider in PyCharm to pull Brand, Title, and Price of each jean on shopbop webpage
-Action: Determine how to incorporate XPATH Reference (search & return) on line 43
-Next Step: Determine how to organize the data pulled from webpage using XPTHA and CSS References 
+1) Began writing consolidated spider in PyCharm to pull Brand, Title, and Price of each jean on shopbop webpage
+2) Action: Determine how to incorporate XPATH Reference (search & return) on line 43
+3) Next Step: Determine how to organize the data pulled from webpage using XPTHA and CSS References 
