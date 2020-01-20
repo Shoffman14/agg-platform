@@ -23,3 +23,9 @@ Jan 19
 1) Began writing consolidated spider in PyCharm to pull Brand, Title, and Price of each jean on shopbop webpage
 2) Action: Determine how to incorporate XPATH Reference (search & return) on line 43
 3) Next Step: Determine how to organize the data pulled from webpage using XPTHA and CSS References 
+
+Jan 20
+1) Determined how to incorporate contains funcitons in XPATH function of spider
+2) Completed the build of the spider, pipelines, and storage into SQLITE3
+3) This included writing a Python program in a piplines folder of PyCharm that stores the Items (created & stored in a new Items tab we created) and putting the same data in database (run & stored in PyCharm). Organization of the data into a table was also dictated in this Python program
+4) Database (DB) was uploaded to site https://sqliteonline.com/ where table was created, organizing the data as we dictated in the Python program in pipelines folder of PyCharm
