@@ -29,3 +29,5 @@ Jan 20
 2) Completed the build of the spider, pipelines, and storage into SQLITE3
 3) This included writing a Python program in a piplines folder of PyCharm that stores the Items (created & stored in a new Items tab we created) and putting the same data in database (run & stored in PyCharm). Organization of the data into a table was also dictated in this Python program
 4) Database (DB) was uploaded to site https://sqliteonline.com/ where table was created, organizing the data as we dictated in the Python program in pipelines folder of PyCharm
+5) Next Step: Determine how to pull data from multiple pages (assuming search returns more than one page of options)
+6) Action: Investigate API structure of Kayak, specifically webscraping used for smaller-name airlines, due to particular search nature (Date, City, Time, etc.) employed by these searches 
